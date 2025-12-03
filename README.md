@@ -82,3 +82,5 @@ O objetivo foi criar um ChatBot híbrido que não apenas consulta documentos (RA
 
 pip install langchain langchain-openai langchain-community chromadb pypdf gradio
 
+---
+Projeto desenvolvido por **Endriu Silveira De Sousa** como parte de portfólio em Engenharia de Dados e GenAI.
