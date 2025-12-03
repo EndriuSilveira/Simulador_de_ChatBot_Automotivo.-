@@ -76,10 +76,9 @@ O objetivo foi criar um ChatBot híbrido que não apenas consulta documentos (RA
 
 
 
-\### Instalação
+### Instalação
 
 ```bash
-
 pip install langchain langchain-openai langchain-community chromadb pypdf gradio
 
 
